@@ -142,4 +142,5 @@ Each table is connected using **primary keys and foreign key constraints** to ma
 * Strengthened understanding of **customer analytics & restaurant performance**
 
 ---
-![Output](images/scheme.png)
+
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/34c9023f-6556-43ba-afe6-5fd31adad7d3" />
